@@ -34,7 +34,7 @@
 ##### 浏览器端发起请求
 在package.json所在目录下执行打包命令
 
-    npm run dev
+    npm run build
     
 执行之后dist文件会生成main.js和自动引入main.js的index.html,在浏览器端打开dist目录下的index.html，打开f12，即可看到服务端相应
 
