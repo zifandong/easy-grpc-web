@@ -4,8 +4,7 @@
   "description": "A easy demo about grpc-web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js"
   },
   "author": "",
   "license": "ISC",
